@@ -1,19 +1,21 @@
 ---
 layout: home-page
-title: Dobrodošli u našu stranicu
-phone: +381 64 123 4567
-address: Ulica Poljoprivrednika 12, Beograd, Srbija
-email: info@poljoprivreda.rs
-description: Sveže domaće voće i povrće direktno sa farme do vašeg stola!
+title: Čudić Med
+phone: '0641526454'
+address: Novi Sad
+email: cudicmed@srb.in.rs
+description: Pčelarsko gazdinstvo Čudić
 images:
-  - url: assets/images/theme/default-apples.webp
-    alt: "Jabuke"
-  - url: assets/images/theme/default-lettuce.webp
-    alt: "Zelena salata"
-  - url: assets/images/theme/default-tomato_juice.webp
-    alt: "Mleveni paradajz"
+- url: assets/images/med.jpg
+  alt: Livadski
+- url: assets/images/med2.jpg
+  alt: Šumski
+- url: assets/images/suncokret.jpg
+  alt: Suncokret
+- url: assets/images/propolis.jpg
+  alt: Propolis
 working_hours:
-  - "Ponedeljak - Petak: 08:00 - 18:00"
-  - "Subota: 08:00 - 14:00"
-  - "Nedelja: Zatvoreno"
+- Dostava po dogovoru
+- Teritorija Novog sada
 ---
+
