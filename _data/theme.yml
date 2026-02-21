@@ -1,11 +1,11 @@
 ---
-favicon: assets/images/theme/favicon_io/favicon.ico
-header_background_image: assets/images/pozadina.jpg
-body_background_image_light: assets/images/pozadinazuta.jpg
-body_background_image_dark:
+favicon: assets/images/honey_favicon.ico
+header_background_image: assets/images/pogled u sace.jpg
+body_background_image_light: assets/images/IMG-da04404224ba15edf650951dea27246b-V.jpg
+body_background_image_dark: assets/images/IMG-0d1049faf1eba8c14aa31f284a62ea96-V.jpg
 body_background_image_light_default: assets/images/theme/leaves-parallax-light.webp
 body_background_image_dark_default: assets/images/theme/leaves-parallax-dark.webp
-selected_palette: bluish-teal-grey
+selected_palette: sage-brownish-grey
 _schema:
   favicon: image_field
   header_background_image: image_field
